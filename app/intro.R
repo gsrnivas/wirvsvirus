@@ -2,4 +2,3 @@
 
 file<- read.csv("../data/data_file.txt")
 
-# file manipulations
